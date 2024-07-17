@@ -1,0 +1,9 @@
+Team Members 
+------------
+
+Project: Customer segmentation using Machine learning models
+
+AJIL ALEYAS: 87953365
+ROBIN KURIAN : 29853812
+GOURAV SINGH : 83659551 
+
